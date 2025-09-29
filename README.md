@@ -2,6 +2,8 @@
 
 A modern React frontend for the [Eyevinn Test AdServer](https://github.com/Eyevinn/test-adserver), providing a web interface to manage sessions, generate VAST/VMAP responses, and analyze ad serving activity.
 
+<a href="docs/analytics.png"><img src="docs/analytics.png" width="600" alt="Analytics Dashboard"></a>
+
 ## Features
 
 ### 🎯 Session Management
