@@ -1,4 +1,4 @@
-# Test Ad Server Dashboard
+# Test Ad Server Frontend
 
 A modern React frontend for the [Eyevinn Test AdServer](https://github.com/Eyevinn/test-adserver), providing a web interface to manage sessions, generate VAST/VMAP responses, and analyze ad serving activity.
 
